@@ -18,6 +18,10 @@ npm run install
 npm run start
 ```
 
+```bash
+For API endpoints,visit http://localhost:3000/api-docs/
+```
+
 Note: For backend,please create .env file in root folder(inside backend)
 
 ```bash
